@@ -1,0 +1,545 @@
+Tanggal Transaksi,Nama Resto,Tipe Pesanan,Nomor Pesanan,Rating untuk Resto,Review,Nama Menu,Tag yang Dipilih
+"Oct 31 2025, 19:41","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3020964937,5,,"Cheese Sauce, Nasi Putih, 1 Ekor Ayam Western, Nasi Kebuli","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 31 2025, 19:15","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3020928856,5,,Paket Berkah 1 Putih,
+"Oct 31 2025, 19:10","Ayam Guling Enakko, Raya Kuta",Gofood Delivery,F-3020921738,5,,"1 Ekor Ayam Western, Nasi Kebuli","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_VALUE"
+"Oct 31 2025, 18:40","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3020877077,5,,"Paket Mabar 2 Kebuli, Squash Orange, Cheese Sauce",
+"Oct 31 2025, 18:32","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3020864691,5,,1 Ekor Ayam Western,"CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_VALUE"
+"Oct 31 2025, 17:16","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3020770851,5,,"Cheese Sauce, 1/2 Ekor Ayam Western, Onion Mayo Sauce",
+"Oct 31 2025, 17:08","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3020762813,5,,Paket Mabar 4 Putih,
+"Oct 31 2025, 17:05","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3020758682,5,,Paket Mabar 4 Mandhi,"CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_VALUE"
+"Oct 31 2025, 17:03","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3020756586,5,,"Squash Orange, Paket Berkah 1 Putih","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 31 2025, 17:02","Ayam Guling Enakko, Raya Kuta",Gofood Delivery,F-3020755304,5,,1/2 Ekor Ayam Western,
+"Oct 31 2025, 15:32","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3020670683,5,,Paket Berkah 2 Kebuli,
+"Oct 31 2025, 15:14","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3020655111,5,,1 Ekor Ayam Original,
+"Oct 31 2025, 13:54","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3020584559,3,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_ORDER, CANNED_RESPONSE_CUTLERY_INCORRECT"
+"Oct 31 2025, 11:55","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3020445580,5,,"Paket Mabar 1 Kebuli, Paket Berkah 2 Kebuli",
+"Oct 31 2025, 10:58","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3020369569,5,,1 Ekor Ayam Western,
+"Oct 31 2025, 09:35","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3020286279,5,,"Cheese Sauce, BBQ Sauce, Sambel Korek, Paket Mabar 4 Kebuli, Hot Cheese Sauce",
+"Oct 31 2025, 09:21","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3020276084,4,,"Sambel Dower, 1/2 Ekor Ayam Western, Paket Berkah 1 Putih",
+"Oct 30 2025, 19:41","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3020015485,5,,"Sambel Ijo, Paket Berkah 3 Mandhi",
+"Oct 30 2025, 19:09","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3019969706,5,,Paket Berkah 3 Mandhi,
+"Oct 30 2025, 18:24","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3019903605,5,,Paket Berkah 2 Kebuli,
+"Oct 30 2025, 18:08","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3019879515,5,,"Paket Duo Original, Sambel Korek",
+"Oct 30 2025, 16:19","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3019750560,5,,Paket Berkah 1 Putih,
+"Oct 30 2025, 13:56","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3019635967,5,,"Blackpaper Sauce, 1 Ekor Ayam Original, Sambel Korek",
+"Oct 30 2025, 12:58","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3019583734,5,,1/2 Ekor Ayam Original,
+"Oct 30 2025, 12:56","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3019581440,5,,"Paket Duo Original, Cheese Sauce, Nasi Kebuli","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 30 2025, 11:35","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3019484622,5,,"Sambel Ijo, 1/2 Ekor Ayam Western",
+"Oct 30 2025, 10:25","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3019398377,5,,"1 Ekor Ayam Original, Sambel Korek, Nasi Putih",
+"Oct 30 2025, 10:24","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3019397939,5,,1 Ekor Ayam Original,
+"Oct 30 2025, 10:04","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3019378710,5,,Paket Berkah 2 Kebuli,
+"Oct 30 2025, 06:37","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3019287235,5,,"Nasi Putih, 1/2 Ekor Ayam Original",
+"Oct 29 2025, 20:01","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3019127608,5,,"BBQ Sauce, 1 Ekor Ayam Western, Cheese Sauce",
+"Oct 29 2025, 19:29","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3019087944,5,,"Paket Mabar 1 Mandhi, Nasi Kebuli",
+"Oct 29 2025, 16:34","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3018866839,5,,Paket Mabar 2 Kebuli,
+"Oct 29 2025, 16:22","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3018856543,5,,"French Fries, Paket Berkah 2 Kebuli",
+"Oct 29 2025, 15:34","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3018820089,5,,Paket Berkah 1 Putih,
+"Oct 29 2025, 12:53","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3018689732,5,,Paket Mabar 4 Kebuli,
+"Oct 29 2025, 12:11","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3018644507,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_PACKAGING"
+"Oct 29 2025, 11:24","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3018586691,5,,"Nasi Kebuli, 1/2 Ekor Ayam Original",
+"Oct 29 2025, 11:01","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3018557511,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_CUTLERY"
+"Oct 29 2025, 11:01","Ayam Guling Enakko, Raya Kuta",Gofood Delivery,F-3018557439,5,,Paket Berkah 1 Putih,
+"Oct 29 2025, 10:42","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3018536515,5,,1 Ekor Ayam Western,
+"Oct 29 2025, 09:30","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3018477911,5,,1/2 Ekor Ayam Original,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE"
+"Oct 29 2025, 08:46","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3018453839,3,,Paket Berkah 2 Kebuli,CANNED_RESPONSE_TASTE
+"Oct 29 2025, 08:35","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3018448700,5,,Paket Duo Western,
+"Oct 29 2025, 01:29","Ayam Guling Enakko, Raya Kuta",Gofood Delivery,F-3018388079,5,,"Sambel Korek, 1/2 Ekor Ayam Original, Nasi Putih",
+"Oct 28 2025, 20:10","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3018261431,5,,1 Ekor Ayam Western,
+"Oct 28 2025, 19:48","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3018237114,5,,Paket Mabar 2 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_CUTLERY, CANNED_RESPONSE_VALUE"
+"Oct 28 2025, 18:01","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3018086192,5,,Paket Berkah 2 Kebuli,
+"Oct 28 2025, 16:48","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3018000670,5,,1 Ekor Ayam Western,
+"Oct 28 2025, 15:00","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3017905742,2,,Paket Berkah 1 Putih,
+"Oct 28 2025, 13:34","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3017834700,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE"
+"Oct 28 2025, 11:39","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3017703936,5,,"Nasi Kebuli, 1/2 Ekor Ayam Western",
+"Oct 27 2025, 18:59","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3017266060,5,,Paket Berkah 2 Kebuli,
+"Oct 27 2025, 18:08","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3017195060,4,,"1 Ekor Ayam Western, BBQ Sauce",
+"Oct 27 2025, 17:40","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3017158798,5,,Paket Mabar 4 Kebuli,
+"Oct 27 2025, 17:31","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3017146928,4,,1 Ekor Ayam Western,
+"Oct 27 2025, 15:55","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3017043070,5,,"1 Ekor Ayam Original, Sambel Ijo, Sambel Dower",
+"Oct 27 2025, 13:49","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3016942155,4,,Paket Berkah 2 Kebuli,CANNED_RESPONSE_PORTION
+"Oct 27 2025, 12:40","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3016877410,5,,"1 Ekor Ayam Western, Squash Melon, Sambel Tomat, Squash Lychee","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 27 2025, 11:51","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3016817085,5,,"1 Ekor Ayam Western, Es Teh",
+"Oct 27 2025, 11:18","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3016774864,5,,"Paket Berkah 2 Kebuli, 1/4 Ekor Ayam Western",
+"Oct 27 2025, 11:15","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3016769780,5,,1 Ekor Ayam Original,"CANNED_RESPONSE_TASTE, CANNED_RESPONSE_VALUE"
+"Oct 27 2025, 10:42","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3016731679,5,,"Hot Cheese Sauce, Paket Berkah 1 Putih",
+"Oct 27 2025, 10:03","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3016694788,5,,"1 Ekor Ayam Original, Hot Cheese Sauce, Blackpaper Sauce, Nasi Putih",
+"Oct 27 2025, 09:54","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3016688532,5,,Paket Berkah 1 Putih,CANNED_RESPONSE_TASTE
+"Oct 27 2025, 09:54","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3016688425,5,,"Nasi Putih, 1/2 Ekor Ayam Original",
+"Oct 27 2025, 09:45","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3016682671,5,,Paket Mabar 2 Kebuli,
+"Oct 27 2025, 08:43","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3016648396,5,,1 Ekor Ayam Original,CANNED_RESPONSE_TASTE
+"Oct 26 2025, 21:41","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3016528492,5,,Paket Mabar 4 Putih,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_CUTLERY, CANNED_RESPONSE_VALUE"
+"Oct 26 2025, 18:37","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3016319593,5,,"Paket Duo Original dan Western, Sambel Ijo, 1/4 Ekor Ayam Original, 1/2 Ekor Ayam Western",
+"Oct 26 2025, 18:20","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3016290181,5,,1/2 Ekor Ayam Original,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 26 2025, 17:37","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3016221216,5,,"Paket Berkah 3 Mandhi, 1/2 Ekor Ayam Western, Nasi Putih",
+"Oct 26 2025, 15:32","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3016064621,5,,"Nasi Mandhi, 1/2 Ekor Ayam Western","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_VALUE"
+"Oct 26 2025, 15:16","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3016047684,4,,"Sambel Ijo, 1/4 Ekor Ayam Original, BBQ Sauce, Nasi Kebuli, 1/4 Ekor Ayam Western",
+"Oct 26 2025, 14:19","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3015986799,5,,1 Ekor Ayam Western,
+"Oct 26 2025, 13:59","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3015964313,1,,Paket Mabar 2 Kebuli,
+"Oct 26 2025, 12:02","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3015798107,5,,"Sambel Tomat, 1/2 Ekor Ayam Western",
+"Oct 26 2025, 11:58","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3015791915,5,,1 Ekor Ayam Original,
+"Oct 26 2025, 11:36","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3015754574,5,,"1 Ekor Ayam Western, Nasi Kebuli",
+"Oct 26 2025, 11:27","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3015739402,5,,"1/4 Ekor Ayam Western, Sambel Korek",
+"Oct 26 2025, 11:22","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3015730861,4,,"Nasi Kebuli, 1/2 Ekor Ayam Western, 1/4 Ekor Ayam Original, Sambel Tomat",
+"Oct 26 2025, 11:04","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3015702122,5,,1 Ekor Ayam Western,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 26 2025, 10:47","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3015675588,5,,1 Ekor Ayam Western,
+"Oct 26 2025, 10:45","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3015673945,5,,"Hot Cheese Sauce, BBQ Sauce, Paket Mabar 1 Mandhi, Paket Mabar 1 Kebuli",
+"Oct 26 2025, 10:37","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3015663171,5,,1 Ekor Ayam Western,
+"Oct 26 2025, 10:21","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3015641898,5,,"1/2 Ekor Ayam Original, 1/2 Ekor Ayam Western",
+"Oct 26 2025, 10:14","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3015632462,5,,"1 Ekor Ayam Western, Sambel Dower, Nasi Putih, Nasi Kebuli",
+"Oct 26 2025, 09:29","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3015586983,5,,"Paket Mabar 2 Kebuli, Hot Cheese Sauce","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 26 2025, 06:47","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3015487580,4,,"Nasi Mandhi, Sambel Tomat, BBQ Sauce, Cheese Sauce, 1 Ekor Ayam Western",
+"Oct 25 2025, 20:02","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3015283163,5,,Paket Berkah 3 Mandhi,
+"Oct 25 2025, 17:36","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3015054760,5,,"BBQ Sauce, Hot Cheese Sauce, 1/4 Ekor Ayam Western",
+"Oct 25 2025, 16:58","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3015008141,5,,Paket Mabar 1 Kebuli,
+"Oct 25 2025, 16:33","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3014981263,4,,Paket Mabar 2 Kebuli,
+"Oct 25 2025, 14:34","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3014864476,4,,"Nasi Kebuli, Sambel Dower, 1/4 Ekor Ayam Original",
+"Oct 25 2025, 12:37","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3014723095,5,,"1/4 Ekor Ayam Original, Paket Berkah 1 Putih, Paket Berkah 2 Kebuli",
+"Oct 25 2025, 12:26","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3014706434,5,,"1/2 Ekor Ayam Western, Sambel Dower","CANNED_RESPONSE_TASTE, CANNED_RESPONSE_VALUE"
+"Oct 25 2025, 12:07","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3014677928,5,,"1 Ekor Ayam Original, Sambel Korek",
+"Oct 25 2025, 11:18","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3014601453,5,,"1/2 Ekor Ayam Western, Cheese Sauce",
+"Oct 25 2025, 11:09","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3014587639,5,,Paket Mabar 2 Kebuli,
+"Oct 25 2025, 10:57","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3014571233,5,,1 Ekor Ayam Original,
+"Oct 25 2025, 10:53","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3014566129,4,,Paket Duo Original dan Western,
+"Oct 25 2025, 10:05","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3014508643,5,,"1 Ekor Ayam Western, Nasi Putih",
+"Oct 25 2025, 09:00","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3014453455,5,,1 Ekor Ayam Original,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 25 2025, 08:53","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3014449044,5,,Paket Mabar 4 Kebuli,"CANNED_RESPONSE_TASTE, CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 25 2025, 07:42","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3014408175,5,,1 Ekor Ayam Original,
+"Oct 25 2025, 06:58","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3014388349,5,,"Squash Orange, 1 Ekor Ayam Western, Nasi Mandhi",
+"Oct 24 2025, 22:20","Ayam Guling Enakko, Raya Kuta",Gofood Delivery,F-3014308305,5,,"Paket Mabar 1 Kebuli, Paket Berkah 1 Putih",
+"Oct 24 2025, 19:50","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3014173373,5,,Paket Duo Original,
+"Oct 24 2025, 19:02","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3014100120,5,,Paket Mabar 1 Putih,
+"Oct 24 2025, 18:11","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3014015840,4,,Paket Mabar 1 Kebuli,
+"Oct 24 2025, 17:35","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3013964869,5,,"Nasi Kebuli, 1 Ekor Ayam Original","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 24 2025, 17:31","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3013959168,5,,"Nasi Kebuli, 1/2 Ekor Ayam Original",
+"Oct 24 2025, 17:00","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3013921460,5,,1 Ekor Ayam Original,
+"Oct 24 2025, 16:32","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3013890288,5,,"Nasi Kebuli, Cheese Sauce, 1 Ekor Ayam Original","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE"
+"Oct 24 2025, 16:18","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3013875405,5,,"Paket Duo Western, Nasi Mandhi, Nasi Kebuli, Sambel Korek",
+"Oct 24 2025, 16:14","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3013871537,5,,"1 Ekor Ayam Western, Sambel Ijo",
+"Oct 24 2025, 15:59","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3013856938,5,,1 Ekor Ayam Western,
+"Oct 24 2025, 14:11","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3013760349,5,,"1 Ekor Ayam Original, Sambel Ijo",
+"Oct 24 2025, 13:33","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3013724907,5,,"1 Ekor Ayam Original, Sambel Ijo",
+"Oct 24 2025, 13:07","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3013697283,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 24 2025, 13:03","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3013693144,4,,"Onion Mayo Sauce, 1/4 Ekor Ayam Western, French Fries, 1 Ekor Ayam Western, Korean Samyang Sauce",
+"Oct 24 2025, 11:41","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3013589354,5,,1 Ekor Ayam Western,
+"Oct 24 2025, 11:23","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3013565318,5,,1/2 Ekor Ayam Original,
+"Oct 24 2025, 11:06","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3013541230,5,,"Paket Berkah 1 Putih, Cheese Sauce",
+"Oct 24 2025, 10:21","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3013484238,5,,"Sambel Korek, Paket Mabar 1 Putih",
+"Oct 24 2025, 10:09","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3013471201,5,,"Paket Berkah 2 Kebuli, Cheese Sauce",
+"Oct 24 2025, 09:55","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3013458106,5,,"1/4 Ekor Ayam Original, 1/4 Ekor Ayam Western",
+"Oct 24 2025, 09:42","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3013448273,5,,Paket Mabar 1 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 24 2025, 08:55","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3013417217,5,,1 Ekor Ayam Original,
+"Oct 23 2025, 19:53","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3013183056,5,,"1 Ekor Ayam Original, Hot Cheese Sauce",
+"Oct 23 2025, 18:48","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3013089366,5,,1 Ekor Ayam Original,
+"Oct 23 2025, 18:24","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3013050464,4,,Paket Berkah 3 Mandhi,
+"Oct 23 2025, 17:46","Ayam Guling Enakko, Raya Kuta",Gofood Delivery,F-3012994254,5,,Paket Mabar 1 Kebuli,
+"Oct 23 2025, 16:50","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3012922378,5,,"Cheese Sauce, Paket Berkah 2 Kebuli",
+"Oct 23 2025, 16:49","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3012921178,5,,1 Ekor Ayam Original,
+"Oct 23 2025, 16:36","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3012906094,5,,1/4 Ekor Ayam Original,
+"Oct 23 2025, 16:02","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3012871857,5,,"Paket Duo Original dan Western, Nasi Putih",
+"Oct 23 2025, 15:05","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3012821358,5,,"1/2 Ekor Ayam Western, Sambel Ijo","CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_PORTION"
+"Oct 23 2025, 13:01","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3012714256,5,,1 Ekor Ayam Original,
+"Oct 23 2025, 12:56","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3012708855,5,,1/4 Ekor Ayam Western,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION"
+"Oct 23 2025, 12:23","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3012672740,4,,Paket Duo Original dan Western,
+"Oct 23 2025, 12:00","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3012643431,5,,Paket Berkah 2 Kebuli,
+"Oct 23 2025, 09:47","Ayam Guling Enakko, Raya Kuta",Gofood Delivery,F-3012488968,5,,Paket Berkah 1 Putih,
+"Oct 23 2025, 09:17","Ayam Guling Enakko, Raya Kuta",Gofood Delivery,F-3012468729,5,,Paket Berkah 1 Putih,
+"Oct 22 2025, 21:12","Ayam Guling Enakko, Raya Kuta",Gofood Delivery,F-3012298259,5,,Paket Berkah 2 Kebuli,
+"Oct 22 2025, 20:18","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3012244573,5,,1 Ekor Ayam Western,
+"Oct 22 2025, 19:03","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3012142816,5,,Paket Mabar 4 Mandhi,
+"Oct 22 2025, 18:52","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3012127210,5,,Paket Mabar 2 Kebuli,
+"Oct 22 2025, 17:01","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3011983415,5,,1 Ekor Ayam Western,
+"Oct 22 2025, 16:29","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3011949846,5,,1/2 Ekor Ayam Original,
+"Oct 22 2025, 15:17","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3011886758,5,,1 Ekor Ayam Western,
+"Oct 22 2025, 14:10","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3011832709,5,,Paket Berkah 2 Kebuli,
+"Oct 22 2025, 13:15","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3011785575,5,,Paket Mabar 4 Kebuli,
+"Oct 22 2025, 13:05","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3011776799,5,,Paket Berkah 1 Putih,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 22 2025, 12:28","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3011737889,5,,Paket Mabar 2 Kebuli,
+"Oct 22 2025, 12:26","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3011735710,5,,"Es Teh, Sambel Tomat, 1/4 Ekor Ayam Western",
+"Oct 21 2025, 20:39","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3011343493,5,,Paket Berkah 1 Putih,
+"Oct 21 2025, 18:49","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3011206764,5,,"Nasi Putih, 1 Ekor Ayam Western",
+"Oct 21 2025, 18:48","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3011205402,5,,"Nasi Kebuli, 1 Ekor Ayam Original",
+"Oct 21 2025, 17:12","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3011070423,5,,"1 Ekor Ayam Original, Nasi Mandhi, Nasi Kebuli","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE"
+"Oct 21 2025, 16:54","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3011050149,5,,Paket Duo Original dan Western,
+"Oct 21 2025, 14:14","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3010912253,5,,Paket Berkah 2 Kebuli,
+"Oct 21 2025, 13:56","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3010897534,5,,"1 Ekor Ayam Western, Sambel Tomat, Paket Berkah 1 Putih",
+"Oct 21 2025, 12:54","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3010841907,5,mantafff makanannya,Paket Mabar 4 Kebuli,CANNED_RESPONSE_TASTE
+"Oct 21 2025, 11:41","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3010754859,1,,Paket Berkah 1 Putih,CANNED_RESPONSE_TASTE
+"Oct 21 2025, 10:35","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3010672341,5,,Paket Berkah 1 Putih,
+"Oct 21 2025, 09:58","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3010637791,5,,Paket Duo Original dan Western,
+"Oct 21 2025, 09:29","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3010618790,5,,Paket Mabar 4 Kebuli,
+"Oct 21 2025, 09:18","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3010612244,5,,"Nasi Kebuli, 1 Ekor Ayam Original",CANNED_RESPONSE_TASTE
+"Oct 20 2025, 18:19","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3010256887,5,,1 Ekor Ayam Western,
+"Oct 20 2025, 18:11","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3010244694,5,,"Sambel Ijo, Sambel Korek, 1/2 Ekor Ayam Western, Sambel Dower",
+"Oct 20 2025, 17:50","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3010216901,5,,Paket Mabar 1 Putih,
+"Oct 20 2025, 17:16","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3010173284,5,,"Paket Berkah 2 Kebuli, Paket Berkah 3 Mandhi",
+"Oct 20 2025, 17:04","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3010159371,5,,"Sambel Ijo, Nasi Mandhi, 1 Ekor Ayam Original","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE"
+"Oct 20 2025, 16:48","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3010141752,5,,"Nasi Mandhi, 1 Ekor Ayam Original, Nasi Kebuli, Cheese Sauce, Blackpaper Sauce, Nasi Putih","CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION"
+"Oct 20 2025, 16:25","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3010118364,5,,1/4 Ekor Ayam Western,
+"Oct 20 2025, 16:17","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3010110185,5,,"Nasi Kebuli, 1/2 Ekor Ayam Western",
+"Oct 20 2025, 16:03","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3010097544,5,,"BBQ Sauce, Nasi Mandhi, 1/2 Ekor Ayam Western",
+"Oct 20 2025, 15:02","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3010045949,5,,"1/2 Ekor Ayam Original, Paket Berkah 2 Kebuli","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_PACKAGING"
+"Oct 20 2025, 12:50","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3009932044,5,,"1/2 Ekor Ayam Original, Sambel Tomat, Es Teh",
+"Oct 20 2025, 12:28","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3009908580,5,,Paket Duo Original dan Western,
+"Oct 20 2025, 10:56","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3009790202,4,,"Nasi Kebuli, 1/2 Ekor Ayam Western",CANNED_RESPONSE_TASTE
+"Oct 20 2025, 10:48","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3009781393,1,"aku beli paket berkah gadiisi sambel, extra sauce hot cheese juga ga dikirim","Paket Berkah 1 Putih, Hot Cheese Sauce",
+"Oct 19 2025, 20:01","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3009491705,5,,Paket Berkah 1 Putih,
+"Oct 19 2025, 19:23","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3009441430,5,,Paket Berkah 1 Putih,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE"
+"Oct 19 2025, 19:06","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3009416019,5,"sambel nya juara banget,, bener² suka banget dengan sambel nya.. AQ kalok makan lebih mendahulukan rasa sambel nya. kalok sambel enak otomatis semuanya ikut enak😋",Paket Berkah 2 Kebuli,CANNED_RESPONSE_TASTE
+"Oct 19 2025, 18:13","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3009329619,5,,Paket Berkah 2 Kebuli,
+"Oct 19 2025, 17:56","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3009302830,5,,"Paket Mabar 2 Kebuli, 1/2 Ekor Ayam Original",
+"Oct 19 2025, 17:21","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3009252578,5,,Paket Mabar 4 Kebuli,CANNED_RESPONSE_TASTE
+"Oct 19 2025, 17:06","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3009233951,5,,Paket Mabar 4 Mandhi,
+"Oct 19 2025, 16:20","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3009178995,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_HYGIENE"
+"Oct 19 2025, 15:37","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3009133256,5,,1 Ekor Ayam Original,
+"Oct 19 2025, 15:19","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3009114815,1,pesan 1 ekor dpt 1/2 ekor kecewa sekali sih,"Sambel Dower, 1 Ekor Ayam Original",CANNED_RESPONSE_PORTION
+"Oct 19 2025, 15:14","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3009109591,5,,"1 Ekor Ayam Western, Sambel Korek",
+"Oct 19 2025, 13:10","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3008965938,5,,Paket Mabar 4 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_CUTLERY, CANNED_RESPONSE_VALUE"
+"Oct 19 2025, 11:52","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3008846671,5,,"Paket Mabar 1 Putih, Paket Mabar 1 Kebuli",
+"Oct 19 2025, 11:42","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3008829633,5,,"Cheese Sauce, 1 Ekor Ayam Western",
+"Oct 19 2025, 11:20","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3008793926,5,,Paket Mabar 4 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 19 2025, 11:19","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3008793032,5,,"Sambel Korek, 1 Ekor Ayam Western",
+"Oct 19 2025, 11:14","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3008785436,5,,"Cheese Sauce, Cheese Burger, Onion Mayo Sauce, Nasi Kebuli, 1 Ekor Ayam Original, BBQ Sauce",
+"Oct 19 2025, 11:08","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3008776010,5,,"Cheese Sauce, 1 Ekor Ayam Original",
+"Oct 19 2025, 10:56","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3008757812,5,,Paket Berkah 2 Kebuli,CANNED_RESPONSE_TASTE
+"Oct 19 2025, 10:51","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3008750259,5,,Paket Berkah 2 Kebuli,
+"Oct 19 2025, 10:50","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3008748661,5,,"1/2 Ekor Ayam Western, Nasi Kebuli, Sambel Ijo",
+"Oct 19 2025, 10:28","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3008719167,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 19 2025, 10:24","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3008714451,5,,"Squash Orange, Cheese Sauce, 1/4 Ekor Ayam Western, Nasi Putih",
+"Oct 19 2025, 09:55","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3008680811,5,,"Nasi Kebuli, Nasi Putih, BBQ Sauce, 1/4 Ekor Ayam Original",CANNED_RESPONSE_TASTE
+"Oct 19 2025, 09:50","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3008676257,4,,Paket Berkah 2 Kebuli,
+"Oct 19 2025, 09:32","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3008659992,5,,1/2 Ekor Ayam Original,
+"Oct 19 2025, 09:22","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3008650833,5,,Paket Berkah 2 Kebuli,
+"Oct 19 2025, 08:58","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3008632016,5,,"Paket Mabar 1 Kebuli, Squash Orange, BBQ Sauce, Squash Melon","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 19 2025, 08:44","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3008623224,5,,1 Ekor Ayam Original,
+"Oct 19 2025, 08:40","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3008620303,4,,"Nasi Kebuli, 1 Ekor Ayam Western","CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_PRICE, CANNED_RESPONSE_VALUE"
+"Oct 18 2025, 19:58","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3008363902,1,"Pesanan Kurang, Bayar Extra Sambel tapi sambel ga ada samsek","Paket Berkah 2 Kebuli, Paket Mabar 2 Kebuli",CANNED_RESPONSE_ORDER
+"Oct 18 2025, 19:02","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3008281419,5,,"Nasi Kebuli, 1 Ekor Ayam Original",
+"Oct 18 2025, 18:42","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3008247490,5,,"Cheese Burger, 1/4 Ekor Ayam Original",
+"Oct 18 2025, 18:26","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3008220208,5,,Paket Berkah 2 Kebuli,
+"Oct 18 2025, 17:28","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3008135802,5,,"Hot Cheese Sauce, Sambel Dower, Sambel Ijo, 1 Ekor Ayam Original","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE"
+"Oct 18 2025, 17:14","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3008118552,5,,"1 Ekor Ayam Original, 1/2 Ekor Ayam Western",
+"Oct 18 2025, 16:31","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3008070624,5,,1 Ekor Ayam Original,
+"Oct 18 2025, 15:55","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3008034988,5,,"Hot Cheese Sauce, Nasi Putih, 1/2 Ekor Ayam Western, Sambel Korek",CANNED_RESPONSE_TASTE
+"Oct 18 2025, 14:53","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3007976380,5,,"1 Ekor Ayam Western, Nasi Putih, Nasi Kebuli",
+"Oct 18 2025, 14:44","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3007967378,5,,Paket Berkah 3 Mandhi,
+"Oct 18 2025, 14:35","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3007958792,5,,"Paket Mabar 1 Kebuli, 1 Ekor Ayam Original, Squash Lychee",
+"Oct 18 2025, 10:47","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3007650038,5,,Paket Berkah 2 Kebuli,
+"Oct 18 2025, 10:38","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3007639376,5,,"Nasi Kebuli, Hot Cheese Sauce, 1/2 Ekor Ayam Original",
+"Oct 18 2025, 10:28","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3007625860,5,,"Squash Melon, 1/2 Ekor Ayam Western, Blackpaper Sauce, Nasi Kebuli, Hot Cheese Sauce, Korean Samyang Sauce",
+"Oct 18 2025, 10:07","Ayam Guling Enakko, Raya Kuta",Gofood Delivery,F-3007601632,5,,Paket Berkah 2 Kebuli,
+"Oct 18 2025, 10:07","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3007601638,5,,Paket Berkah 2 Kebuli,
+"Oct 18 2025, 09:35","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3007573117,5,,"1/4 Ekor Ayam Western, Paket Berkah 1 Putih, French Fries","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 18 2025, 09:32","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3007570848,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING"
+"Oct 18 2025, 09:31","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3007569989,5,,Paket Berkah 2 Kebuli,
+"Oct 18 2025, 08:17","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3007519217,5,,"Paket Berkah 1 Putih, Paket Berkah 2 Kebuli",
+"Oct 17 2025, 22:08","Ayam Guling Enakko, Raya Kuta",Gofood Delivery,F-3007398464,5,,"Nasi Putih, 1 Ekor Ayam Original",
+"Oct 17 2025, 18:46","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3007189560,5,,Paket Duo Original,
+"Oct 17 2025, 18:39","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3007178905,5,,Paket Mabar 4 Kebuli,
+"Oct 17 2025, 17:54","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3007117667,5,,1 Ekor Ayam Western,
+"Oct 17 2025, 17:36","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3007094598,5,,1/2 Ekor Ayam Original,"CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION"
+"Oct 17 2025, 17:10","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3007065350,5,,"Nasi Kebuli, Korean Samyang Sauce, Sambel Korek, 1 Ekor Ayam Western",
+"Oct 17 2025, 16:44","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3007039169,5,,Paket Berkah 2 Kebuli,
+"Oct 17 2025, 16:42","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3007037007,5,,"Nasi Mandhi, 1/2 Ekor Ayam Original, Squash Pineapple, Squash Manggo, Nasi Kebuli",CANNED_RESPONSE_TASTE
+"Oct 17 2025, 16:39","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3007034744,5,,"Paket Duo Original, Sambel Korek",
+"Oct 17 2025, 16:36","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3007031468,5,,"1/2 Ekor Ayam Original, Nasi Kebuli, Sambel Ijo",
+"Oct 17 2025, 16:31","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3007026659,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_FRESHNESS"
+"Oct 17 2025, 14:28","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3006922787,5,,1 Ekor Ayam Western,
+"Oct 17 2025, 11:52","Ayam Guling Enakko, Raya Kuta",Gofood Delivery,F-3006751741,5,,Paket Mabar 4 Kebuli,
+"Oct 17 2025, 09:57","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3006614409,5,,"Paket Berkah 2 Kebuli, Paket Mabar 1 Putih","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_CUTLERY, CANNED_RESPONSE_PACKAGING"
+"Oct 17 2025, 09:43","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3006603714,5,,"Sambel Korek, Paket Duo Original, Cheese Sauce, BBQ Sauce",
+"Oct 17 2025, 09:38","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3006600034,5,,"Paket Berkah 1 Putih, Paket Berkah 2 Kebuli, Paket Berkah 2 Kebuli",
+"Oct 17 2025, 08:57","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3006573812,5,,"Paket Berkah 1 Putih, Paket Berkah 2 Kebuli","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 17 2025, 08:32","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3006561323,5,,1 Ekor Ayam Western,
+"Oct 16 2025, 20:17","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3006378882,5,,"1/2 Ekor Ayam Original, Nasi Putih",
+"Oct 16 2025, 19:28","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3006321695,5,,Paket Berkah 2 Kebuli,
+"Oct 16 2025, 17:14","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3006136414,5,,Paket Duo Original dan Western,
+"Oct 16 2025, 16:48","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3006106427,5,,1 Ekor Ayam Western,
+"Oct 16 2025, 16:17","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3006076130,5,,"Sambel Ijo, 1 Ekor Ayam Original",
+"Oct 16 2025, 15:52","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3006053499,5,,1 Ekor Ayam Western,
+"Oct 16 2025, 15:42","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3006045348,5,Bestttt murah enak,"Cheese Sauce, 1 Ekor Ayam Western",
+"Oct 16 2025, 15:39","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3006042448,5,,Paket Mabar 4 Putih,
+"Oct 16 2025, 15:16","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3006023479,5,,"Paket Duo Original dan Western, Nasi Mandhi",
+"Oct 16 2025, 14:43","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3005997245,5,,Paket Mabar 4 Kebuli,
+"Oct 16 2025, 11:03","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3005756515,1,Saya order dada dan sudah saya kasih note tetapi yg datang paha keduanya,"1/4 Ekor Ayam Western, Nasi Mandhi",
+"Oct 16 2025, 10:41","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3005730686,5,,Paket Berkah 2 Kebuli,
+"Oct 16 2025, 10:05","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3005694943,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 16 2025, 09:30","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3005670739,5,,Paket Mabar 1 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 16 2025, 09:28","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3005669260,5,,1 Ekor Ayam Original,
+"Oct 16 2025, 09:13","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3005660019,5,,Paket Berkah 2 Kebuli,
+"Oct 16 2025, 09:12","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3005659580,5,,"Nasi Kebuli, 1/2 Ekor Ayam Western",
+"Oct 16 2025, 08:48","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3005646291,5,,1/2 Ekor Ayam Western,
+"Oct 16 2025, 07:58","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3005624021,5,,"Sambel Ijo, 1 Ekor Ayam Western",
+"Oct 15 2025, 20:10","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3005452409,5,,Paket Berkah 1 Putih,
+"Oct 15 2025, 19:57","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3005438624,5,pertama kali cobaa dan kaget bgtt seenak itu bjirr 😭❤️ autoo repurchase lg 🥹🥹❤️,1 Ekor Ayam Original,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_PORTION"
+"Oct 15 2025, 18:50","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3005349967,5,,Paket Mabar 2 Kebuli,"CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION"
+"Oct 15 2025, 18:22","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3005307376,5,,Paket Mabar 2 Mandhi,
+"Oct 15 2025, 18:21","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3005305033,5,,"Paket Berkah 3 Mandhi, 1/2 Ekor Ayam Western",CANNED_RESPONSE_PORTION
+"Oct 15 2025, 18:03","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3005279656,5,,1 Ekor Ayam Western,
+"Oct 15 2025, 17:36","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3005244284,5,,"1 Ekor Ayam Original, Nasi Putih",
+"Oct 15 2025, 16:30","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3005174433,5,,1 Ekor Ayam Western,
+"Oct 15 2025, 14:50","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3005091601,5,,Paket Mabar 1 Kebuli,
+"Oct 15 2025, 14:05","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3005054504,5,,Paket Berkah 2 Kebuli,
+"Oct 15 2025, 12:59","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3004993702,5,,"Sambel Korek, 1 Ekor Ayam Western",
+"Oct 15 2025, 12:20","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3004949670,5,,"Sambel Korek, 1/2 Ekor Ayam Western",
+"Oct 15 2025, 11:25","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3004877627,5,,Paket Mabar 1 Kebuli,"CANNED_RESPONSE_TASTE, CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_CUTLERY, CANNED_RESPONSE_PACKAGING"
+"Oct 15 2025, 10:54","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3004836898,5,,"Sambel Korek, Paket Berkah 1 Putih, Paket Berkah 1 Putih",
+"Oct 14 2025, 19:46","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3004517447,5,,1 Ekor Ayam Original,
+"Oct 14 2025, 19:42","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3004513089,5,,Paket Duo Original,
+"Oct 14 2025, 19:30","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3004497990,5,,"1 Ekor Ayam Western, BBQ Sauce",CANNED_RESPONSE_HYGIENE
+"Oct 14 2025, 18:58","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3004454138,5,,"1 Ekor Ayam Original, Sambel Korek, Nasi Putih",
+"Oct 14 2025, 18:54","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3004448615,5,,Paket Mabar 2 Kebuli,
+"Oct 14 2025, 18:47","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3004438454,5,,"1 Ekor Ayam Original, Sambel Ijo",
+"Oct 14 2025, 18:14","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3004388757,5,,"1/2 Ekor Ayam Western, 1/2 Ekor Ayam Original",
+"Oct 14 2025, 18:01","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3004370539,5,Enaaaaaaak seperti biasa 👌🏻,"Paket Mabar 1 Kebuli, Paket Mabar 1 Mandhi",
+"Oct 14 2025, 17:38","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3004341627,5,,Paket Duo Western,
+"Oct 14 2025, 17:02","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3004301440,5,,1 Ekor Ayam Original,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_PACKAGING"
+"Oct 14 2025, 16:06","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3004249796,1,Saya pesen nasi lho gak ada nasinya,"1/2 Ekor Ayam Original, Nasi Putih",CANNED_RESPONSE_PORTION
+"Oct 14 2025, 15:16","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3004208130,3,,Paket Mabar 4 Kebuli,CANNED_RESPONSE_TASTE
+"Oct 14 2025, 15:05","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3004199153,5,,"1 Ekor Ayam Original, Cheese Sauce",
+"Oct 14 2025, 13:39","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3004127790,4,,Paket Mabar 4 Kebuli,
+"Oct 14 2025, 12:21","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3004047547,5,,"Paket Mabar 1 Putih, Paket Berkah 1 Putih",
+"Oct 14 2025, 11:54","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3004013265,5,,Paket Duo Original dan Western,
+"Oct 14 2025, 10:51","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3003929910,5,,Paket Duo Original dan Western,"CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_HYGIENE"
+"Oct 14 2025, 10:30","Ayam Guling Enakko, Raya Kuta",Gofood Delivery,F-3003907918,5,,Paket Berkah 2 Kebuli,
+"Oct 14 2025, 10:04","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3003882828,5,,Paket Berkah 1 Putih,
+"Oct 14 2025, 09:49","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3003872183,5,,"Sambel Korek, 1 Ekor Ayam Western",
+"Oct 14 2025, 09:49","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3003871947,5,,"Nasi Putih, Hot Cheese Sauce, BBQ Sauce, 1/2 Ekor Ayam Original",
+"Oct 14 2025, 09:14","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3003850090,5,,Paket Berkah 2 Kebuli,
+"Oct 14 2025, 08:22","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3003824147,5,,1 Ekor Ayam Western,
+"Oct 14 2025, 07:42","Ayam Guling Enakko, Raya Kuta",Gofood Delivery,F-3003808911,5,,Paket Berkah 2 Kebuli,
+"Oct 14 2025, 00:59","Ayam Guling Enakko, Raya Kuta",Gofood Delivery,F-3003765601,3,NEXT TIME LEBIH TELITI YA! Saya bayar extra sambal tapi tidak ada !! Tolong owner ya atensi staff yang shift malam tanggal 13 October,Paket Berkah 2 Kebuli,
+"Oct 13 2025, 21:10","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3003697115,5,,"1 Ekor Ayam Original, 1 Ekor Ayam Western",
+"Oct 13 2025, 19:56","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3003631989,5,,"Paket Berkah 3 Mandhi, 1/4 Ekor Ayam Original",
+"Oct 13 2025, 18:14","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3003491646,5,,"1/2 Ekor Ayam Western, Nasi Kebuli","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_PACKAGING"
+"Oct 13 2025, 18:02","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3003474745,5,,1 Ekor Ayam Original,
+"Oct 13 2025, 17:52","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3003461526,5,,1 Ekor Ayam Western,
+"Oct 13 2025, 17:29","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3003432041,5,,"Sambel Korek, 1/2 Ekor Ayam Original",
+"Oct 13 2025, 16:57","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3003394895,5,,Paket Mabar 1 Mandhi,CANNED_RESPONSE_TASTE
+"Oct 13 2025, 16:52","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3003389639,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_PACKAGING"
+"Oct 13 2025, 16:48","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3003385797,5,,1 Ekor Ayam Western,
+"Oct 13 2025, 15:22","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3003309369,5,,"1 Ekor Ayam Western, Nasi Kebuli","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE"
+"Oct 13 2025, 14:45","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3003280142,5,,Paket Duo Original,CANNED_RESPONSE_TASTE
+"Oct 13 2025, 13:17","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3003205967,5,,1 Ekor Ayam Original,"CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_FRESHNESS"
+"Oct 13 2025, 13:08","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3003197724,5,,1 Ekor Ayam Original,
+"Oct 13 2025, 11:22","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3003069427,5,,Paket Berkah 1 Putih,
+"Oct 13 2025, 10:55","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3003034814,5,,Paket Berkah 2 Kebuli,
+"Oct 13 2025, 09:58","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3002981390,5,,1/2 Ekor Ayam Original,
+"Oct 13 2025, 08:50","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3002941354,5,"entah udh brp kali beli , seminggu 2x sll beli paket 2 ayam western",Paket Duo Western,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 13 2025, 08:33","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3002933435,5,,Paket Berkah 2 Kebuli,
+"Oct 13 2025, 08:10","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3002923872,5,,"1/4 Ekor Ayam Western, Cheese Sauce",
+"Oct 12 2025, 20:05","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3002738772,5,,"Korean Samyang Sauce, Sambel Korek, 1 Ekor Ayam Western, Nasi Kebuli",
+"Oct 12 2025, 18:37","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3002611667,4,,"Sambel Korek, Paket Berkah 2 Kebuli, 1/4 Ekor Ayam Original",
+"Oct 12 2025, 17:52","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3002537935,5,,"1/2 Ekor Ayam Original, Onion Mayo Sauce",
+"Oct 12 2025, 17:47","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3002531212,5,,Paket Mabar 1 Kebuli,
+"Oct 12 2025, 16:03","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3002406503,5,,1 Ekor Ayam Original,
+"Oct 12 2025, 15:55","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3002397358,5,,"Sambel Ijo, 1/2 Ekor Ayam Western",
+"Oct 12 2025, 14:56","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3002335838,5,,"1 Ekor Ayam Western, BBQ Sauce, Korean Samyang Sauce, Sambel Ijo",
+"Oct 12 2025, 13:03","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3002195363,5,,1 Ekor Ayam Western,
+"Oct 12 2025, 12:19","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3002127344,5,,1 Ekor Ayam Western,
+"Oct 12 2025, 11:29","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3002044787,5,,"Paket Berkah 2 Kebuli, Nasi Kebuli, 1 Ekor Ayam Western",
+"Oct 12 2025, 10:25","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3001948926,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_CUTLERY, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION"
+"Oct 12 2025, 09:24","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3001887089,5,,"Sambel Korek, 1 Ekor Ayam Original","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE"
+"Oct 12 2025, 09:07","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3001872795,5,,1 Ekor Ayam Western,
+"Oct 12 2025, 08:58","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3001865604,5,,Paket Mabar 2 Mandhi,
+"Oct 12 2025, 08:53","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3001862217,5,,Paket Berkah 2 Kebuli,
+"Oct 11 2025, 22:39","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3001718036,5,,"Nasi Putih, Sambel Dower, 1 Ekor Ayam Original","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 11 2025, 20:41","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3001637556,5,"Sayangnya satu udah dingin , coba panas enak",1/2 Ekor Ayam Original,"CANNED_RESPONSE_PORTION, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE"
+"Oct 11 2025, 19:47","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3001573030,5,,"Nasi Kebuli, Es Teh, 1 Ekor Ayam Original",
+"Oct 11 2025, 19:43","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3001566733,5,,"1 Ekor Ayam Original, Nasi Kebuli, Es Teh, Sambel Korek",
+"Oct 11 2025, 18:30","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3001452376,5,,Paket Mabar 1 Kebuli,
+"Oct 11 2025, 18:27","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3001447407,5,,"Cheese Sauce, Paket Berkah 2 Kebuli, Paket Berkah 1 Putih",
+"Oct 11 2025, 17:23","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3001356435,5,,1 Ekor Ayam Original,
+"Oct 11 2025, 17:17","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3001349019,5,,Paket Mabar 2 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE"
+"Oct 11 2025, 16:43","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3001311047,5,,"1 Ekor Ayam Original, Nasi Kebuli",
+"Oct 11 2025, 16:11","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3001278315,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 11 2025, 16:11","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3001278146,5,"sudah lama langganan, dan selalu puas. request sauce selalu didengarkan. thank you.","1 Ekor Ayam Western, Nasi Kebuli","CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_FRESHNESS"
+"Oct 11 2025, 16:05","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3001271779,5,,"1/4 Ekor Ayam Original, Nasi Kebuli",
+"Oct 11 2025, 16:02","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3001269642,5,,Paket Mabar 4 Kebuli,
+"Oct 11 2025, 15:43","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3001250677,5,,"Sambel Dower, Paket Duo Original",
+"Oct 11 2025, 15:37","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3001245136,5,ENAKNYA GA ADA OBAT,"Squash Orange, 1/4 Ekor Ayam Western, 1/4 Ekor Ayam Original, Blackpaper Sauce","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 11 2025, 15:00","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3001210669,5,,Paket Duo Original,CANNED_RESPONSE_FRESHNESS
+"Oct 11 2025, 13:13","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3001092669,5,,"Paket Berkah 2 Kebuli, Paket Mabar 1 Kebuli",
+"Oct 11 2025, 13:03","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3001079413,5,,"Sambel Dower, 1/2 Ekor Ayam Western, Nasi Kebuli",
+"Oct 11 2025, 12:48","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3001059903,4,sambel nya ga di masukin apa lupa?,"1/2 Ekor Ayam Original, Nasi Putih",
+"Oct 11 2025, 12:32","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3001036473,5,,"Sambel Ijo, Paket Berkah 2 Kebuli, Nasi Kebuli","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 11 2025, 12:29","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3001032976,5,,"Nasi Kebuli, 1/2 Ekor Ayam Western",
+"Oct 11 2025, 11:45","Ayam Guling Enakko, Dalung",Gofood Delivery,F-3000964475,5,,1 Ekor Ayam Original,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_VALUE"
+"Oct 11 2025, 11:30","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3000941904,5,,"Paket Berkah 2 Kebuli, Nasi Kebuli","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 11 2025, 11:23","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3000931043,5,,Paket Mabar 4 Mandhi,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE"
+"Oct 11 2025, 11:20","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3000925900,5,"mantaaaaap,mantuuulll","1/4 Ekor Ayam Western, Sambel Dower, Squash Lychee, Nasi Putih","CANNED_RESPONSE_TASTE, CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_PORTION"
+"Oct 11 2025, 11:03","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3000900502,5,,1/2 Ekor Ayam Original,
+"Oct 11 2025, 10:15","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3000838069,5,,1 Ekor Ayam Original,
+"Oct 11 2025, 08:29","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3000755315,5,,"Nasi Putih, 1/2 Ekor Ayam Original",
+"Oct 10 2025, 19:53","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3000518398,4,,"Paket Berkah 2 Kebuli, Paket Mabar 1 Kebuli, Sambel Ijo, Nasi Kebuli",
+"Oct 10 2025, 18:34","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3000410847,5,"Makasih kak, solusi bagi kita yang lagi tidak masak😆","Paket Duo Original dan Western, Nasi Kebuli","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 10 2025, 18:22","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3000392555,5,,1 Ekor Ayam Original,
+"Oct 10 2025, 17:57","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-3000358536,5,,"Cheese Sauce, Paket Berkah 1 Putih, 1/4 Ekor Ayam Western",
+"Oct 10 2025, 17:53","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-3000354389,5,,"1/2 Ekor Ayam Western, 1/2 Ekor Ayam Original",
+"Oct 10 2025, 17:22","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-3000316542,5,,"Paket Mabar 1 Putih, Paket Mabar 1 Mandhi",
+"Oct 10 2025, 16:29","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-3000262984,5,,"1 Ekor Ayam Western, Onion Mayo Sauce, Cheese Sauce",
+"Oct 10 2025, 16:12","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-3000247355,5,,"1 Ekor Ayam Original, Cheese Sauce, Nasi Kebuli",
+"Oct 10 2025, 15:47","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-3000225806,5,,Paket Berkah 2 Kebuli,
+"Oct 10 2025, 14:21","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-3000154087,5,,"Nasi Putih, 1/4 Ekor Ayam Original",
+"Oct 10 2025, 10:30","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2999883815,5,,1/2 Ekor Ayam Western,
+"Oct 10 2025, 10:23","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2999875934,5,,"Cheese Sauce, Onion Mayo Sauce, 1/4 Ekor Ayam Original, 1/2 Ekor Ayam Western",
+"Oct 10 2025, 09:41","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2999838742,5,,"Hot Cheese Sauce, 1 Ekor Ayam Western, Sambel Korek",
+"Oct 10 2025, 09:05","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-2999814615,5,,"Blackpaper Sauce, 1 Ekor Ayam Western, Nasi Kebuli",
+"Oct 9 2025, 20:31","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2999622914,5,,"1/4 Ekor Ayam Original, Squash Lychee",CANNED_RESPONSE_TASTE
+"Oct 9 2025, 20:06","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2999597590,5,,1/2 Ekor Ayam Original,
+"Oct 9 2025, 19:32","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2999556512,5,terima kasih..✨️,"1/2 Ekor Ayam Original, Nasi Putih, Sambel Dower","CANNED_RESPONSE_TASTE, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_FRESHNESS"
+"Oct 9 2025, 17:44","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2999405581,5,,Paket Berkah 1 Putih,
+"Oct 9 2025, 17:31","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2999389358,5,,1 Ekor Ayam Western,
+"Oct 9 2025, 16:49","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2999343083,5,,Paket Berkah 2 Kebuli,
+"Oct 9 2025, 15:42","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2999282871,5,,"1/2 Ekor Ayam Original, Nasi Kebuli",
+"Oct 9 2025, 15:18","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2999263405,5,,Paket Berkah 2 Kebuli,
+"Oct 9 2025, 14:39","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2999232252,5,,1 Ekor Ayam Original,
+"Oct 9 2025, 14:06","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-2999204882,5,,"Onion Mayo Sauce, 1 Ekor Ayam Western, Nasi Putih, Squash Lychee, Air Mineral",
+"Oct 9 2025, 12:43","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2999127303,5,,Paket Berkah 2 Kebuli,
+"Oct 9 2025, 12:42","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2999125783,5,,"Nasi Kebuli, Paket Mabar 1 Mandhi, 1 Ekor Ayam Original",
+"Oct 9 2025, 11:26","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-2999032878,5,,Paket Mabar 1 Kebuli,
+"Oct 9 2025, 10:55","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2998994167,5,,1 Ekor Ayam Western,
+"Oct 9 2025, 10:38","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2998975270,5,,1 Ekor Ayam Western,
+"Oct 9 2025, 10:18","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2998956047,5,,"Nasi Kebuli, 1/4 Ekor Ayam Original",
+"Oct 9 2025, 09:05","Ayam Guling Enakko, Dalung",Gofood Delivery,F-2998907163,4,,1 Ekor Ayam Western,
+"Oct 9 2025, 09:00","Ayam Guling Enakko, Dalung",Gofood Delivery,F-2998904505,5,,"Paket Mabar 1 Mandhi, BBQ Sauce, Hot Cheese Sauce, Paket Mabar 1 Kebuli",
+"Oct 8 2025, 23:52","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-2998816767,5,,1 Ekor Ayam Western,
+"Oct 8 2025, 18:54","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2998599729,5,,Paket Berkah 2 Kebuli,
+"Oct 8 2025, 18:51","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2998594681,5,,1 Ekor Ayam Western,
+"Oct 8 2025, 18:10","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2998533771,5,,"1 Ekor Ayam Western, Sambel Ijo, Sambel Dower, Nasi Kebuli","CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 8 2025, 18:01","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2998522114,5,,"1 Ekor Ayam Western, Reguler Burger, Sambel Ijo",
+"Oct 8 2025, 17:43","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-2998498128,4,,Paket Berkah 2 Kebuli,
+"Oct 8 2025, 17:43","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2998497866,5,,Paket Mabar 2 Kebuli,
+"Oct 8 2025, 16:17","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2998405636,5,,Paket Mabar 1 Mandhi,CANNED_RESPONSE_TASTE
+"Oct 8 2025, 16:11","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2998400763,5,,"Nasi Kebuli, Paket Berkah 2 Kebuli",
+"Oct 8 2025, 16:01","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2998391072,5,,"Cheese Sauce, Sambel Ijo, 1 Ekor Ayam Original, Nasi Kebuli",
+"Oct 8 2025, 14:20","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2998308681,5,,1 Ekor Ayam Western,"CANNED_RESPONSE_CUTLERY, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE"
+"Oct 8 2025, 13:10","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-2998245003,5,,Paket Berkah 1 Putih,
+"Oct 8 2025, 12:45","Ayam Guling Enakko, Dalung",Gofood Delivery,F-2998220089,2,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_TASTE, CANNED_RESPONSE_HYGIENE"
+"Oct 8 2025, 12:13","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2998182052,5,nikmat bgt pulen,Paket Mabar 4 Mandhi,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION"
+"Oct 8 2025, 11:01","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2998085863,4,Kali ini saya kasih bintang 4 dulu karena nasinya masi lembek. Mungkin karena di jam ramai jadi dipaksakan walaupun belum terlalu matang. Lain kali tolong lebih diperhatikan lagi. Terimakasi.,Paket Mabar 1 Kebuli,
+"Oct 8 2025, 10:31","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2998053006,5,,1 Ekor Ayam Western,
+"Oct 8 2025, 10:30","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2998051251,5,,"Nasi Putih, Paket Mabar 1 Kebuli, Paket Berkah 2 Kebuli",
+"Oct 8 2025, 09:05","Ayam Guling Enakko, Dalung",Gofood Delivery,F-2997987663,4,,1/2 Ekor Ayam Western,
+"Oct 8 2025, 01:18","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-2997908830,2,kurang panas dan masih ada darahnya,1 Ekor Ayam Western,
+"Oct 7 2025, 19:47","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2997753084,5,"Ternyata ENAK! Kemana aja selama ini, nyesel baru nyobain sekarang 😭",Paket Berkah 2 Kebuli,
+"Oct 7 2025, 19:21","Ayam Guling Enakko, Dalung",Gofood Delivery,F-2997719379,1,,Paket Mabar 1 Kebuli,
+"Oct 7 2025, 19:21","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2997718794,5,,1 Ekor Ayam Original,
+"Oct 7 2025, 18:11","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2997616263,1,melon squash nya gak ada tpi uang nya gk balikin. curang. udah gk ada pemberituan sebelum nya,"1 Ekor Ayam Original, Squash Melon",
+"Oct 7 2025, 17:59","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-2997600564,5,,"1 Ekor Ayam Original, Blackpaper Sauce",
+"Oct 7 2025, 17:12","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2997541111,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_PACKAGING"
+"Oct 7 2025, 17:06","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2997534721,5,,1 Ekor Ayam Western,
+"Oct 7 2025, 13:16","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2997330165,5,,"Hot Cheese Sauce, Korean Samyang Sauce, Sambel Dower, Sambel Korek, Cheese Sauce, Blackpaper Sauce, Onion Mayo Sauce, Sambel Tomat, 1 Ekor Ayam Western, BBQ Sauce, Sambel Ijo",
+"Oct 7 2025, 11:49","Ayam Guling Enakko, Dalung",Gofood Delivery,F-2997231303,5,,"Nasi Putih, 1 Ekor Ayam Western",
+"Oct 7 2025, 11:48","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2997229604,5,,"Korean Samyang Sauce, 1 Ekor Ayam Western",
+"Oct 7 2025, 10:26","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2997126569,5,,1 Ekor Ayam Original,
+"Oct 7 2025, 10:04","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2997105269,4,,"1 Ekor Ayam Original, Nasi Kebuli",
+"Oct 7 2025, 09:10","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2997068411,4,,Paket Berkah 2 Kebuli,
+"Oct 7 2025, 09:06","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-2997066129,5,,"Nasi Kebuli, 1 Ekor Ayam Western, Blackpaper Sauce",
+"Oct 7 2025, 09:02","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2997063629,5,,Paket Mabar 1 Kebuli,
+"Oct 6 2025, 19:06","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2996777815,5,,"Reguler Burger, Paket Mabar 1 Mandhi",
+"Oct 6 2025, 18:49","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2996752895,5,,1/2 Ekor Ayam Western,
+"Oct 6 2025, 17:46","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2996662774,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 6 2025, 17:37","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2996650725,5,,"Nasi Kebuli, 1 Ekor Ayam Western",
+"Oct 6 2025, 16:22","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2996566858,5,,"1 Ekor Ayam Western, Nasi Putih","CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE"
+"Oct 6 2025, 14:56","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2996491837,5,,Paket Mabar 2 Putih,
+"Oct 6 2025, 14:46","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2996483212,5,,"1 Ekor Ayam Original, Nasi Kebuli",
+"Oct 6 2025, 11:54","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2996306241,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 6 2025, 10:58","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-2996229426,5,,Paket Mabar 2 Putih,
+"Oct 6 2025, 10:16","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2996184401,5,,"1 Ekor Ayam Original, Sambel Korek, Paket Berkah 2 Kebuli, Nasi Kebuli",
+"Oct 5 2025, 17:57","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-2995720545,5,,"1 Ekor Ayam Original, Cheese Sauce",
+"Oct 5 2025, 17:37","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2995689649,5,,"1 Ekor Ayam Western, Hot Cheese Sauce, Cheese Sauce, Paket Mabar 1 Mandhi",
+"Oct 5 2025, 17:14","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2995657088,1,Tidak sesuai dengan orseran katanya isi es teh tapi tidak!,"Hot Cheese Sauce, Onion Mayo Sauce, Paket Berkah 2 Kebuli",
+"Oct 5 2025, 16:41","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2995614819,5,,1 Ekor Ayam Original,
+"Oct 5 2025, 16:05","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2995571805,5,,1 Ekor Ayam Original,
+"Oct 5 2025, 15:22","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2995524993,5,,"Nasi Kebuli, 1/2 Ekor Ayam Original","CANNED_RESPONSE_PORTION, CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_VALUE"
+"Oct 5 2025, 14:24","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-2995458738,5,,"Onion Mayo Sauce, 1/2 Ekor Ayam Original, 1/4 Ekor Ayam Western",
+"Oct 5 2025, 13:53","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2995420159,5,,"Nasi Putih, 1 Ekor Ayam Original, Sambel Korek",
+"Oct 5 2025, 13:39","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2995401554,5,,Paket Mabar 4 Kebuli,
+"Oct 5 2025, 13:06","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2995353573,5,,Paket Berkah 2 Kebuli,
+"Oct 5 2025, 12:50","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2995329663,1,Es teh nggak dikasih,Paket Berkah 2 Kebuli,
+"Oct 5 2025, 12:22","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2995285397,5,,"Nasi Kebuli, Paket Mabar 2 Kebuli",
+"Oct 5 2025, 11:54","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2995238111,5,,Paket Duo Western,
+"Oct 5 2025, 11:30","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-2995197577,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_VALUE"
+"Oct 5 2025, 11:14","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2995169681,5,,Paket Mabar 1 Kebuli,
+"Oct 5 2025, 10:54","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2995137526,5,,Paket Berkah 1 Putih,
+"Oct 5 2025, 10:13","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2995081826,5,,1 Ekor Ayam Original,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_VALUE"
+"Oct 5 2025, 09:56","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2995061778,5,,"1/2 Ekor Ayam Western, Sambel Dower, Sambel Korek, Nasi Kebuli",
+"Oct 5 2025, 09:46","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2995051908,3,"mau dada keduanya, tapi malah dapet paha keduanya 🥲","Paket Mabar 1 Kebuli, Sambel Korek",
+"Oct 5 2025, 09:09","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2995017613,5,,1 Ekor Ayam Western,
+"Oct 5 2025, 08:21","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2994983870,1,,"1/2 Ekor Ayam Western, Paket Berkah 2 Kebuli",
+"Oct 5 2025, 07:43","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-2994962050,5,,Paket Berkah 1 Putih,
+"Oct 4 2025, 19:30","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2994688652,5,,"Cheese Sauce, 1 Ekor Ayam Western, Sambel Korek",
+"Oct 4 2025, 18:25","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2994580536,5,,Paket Berkah 1 Putih,
+"Oct 4 2025, 18:04","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2994546731,1,,"1/2 Ekor Ayam Western, Korean Samyang Sauce, 1/2 Ekor Ayam Original, Nasi Kebuli",
+"Oct 4 2025, 17:58","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2994538658,5,,"Nasi Kebuli, Paket Duo Original dan Western",
+"Oct 4 2025, 17:39","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2994510731,5,,"1 Ekor Ayam Western, Blackpaper Sauce",
+"Oct 4 2025, 17:25","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2994492548,5,,1 Ekor Ayam Western,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 4 2025, 17:15","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2994479889,5,,Paket Mabar 2 Kebuli,
+"Oct 4 2025, 15:20","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2994356483,5,,Paket Berkah 2 Kebuli,
+"Oct 4 2025, 14:09","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2994280097,4,,Paket Berkah 1 Putih,
+"Oct 4 2025, 13:51","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-2994258932,5,,1 Ekor Ayam Western,
+"Oct 4 2025, 13:10","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-2994205771,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 4 2025, 13:02","Ayam Guling Enakko, Dalung",Gofood Delivery,F-2994195121,4,,Paket Mabar 1 Kebuli,
+"Oct 4 2025, 12:55","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2994185618,5,,"1/4 Ekor Ayam Western, Nasi Kebuli",
+"Oct 4 2025, 12:00","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2994098602,5,,"1 Ekor Ayam Western, Sambel Ijo",
+"Oct 4 2025, 11:34","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-2994057205,5,,"Sambel Korek, Sambel Dower, 1/2 Ekor Ayam Original",
+"Oct 4 2025, 11:33","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2994055196,5,,1 Ekor Ayam Original,
+"Oct 4 2025, 11:29","Ayam Guling Enakko, Dalung",Gofood Delivery,F-2994048470,5,,"1 Ekor Ayam Original, Sambel Korek, Cheese Sauce, Sambel Ijo, Korean Samyang Sauce",
+"Oct 4 2025, 11:25","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2994042659,5,,"Nasi Kebuli, 1/2 Ekor Ayam Original, Nasi Putih",
+"Oct 4 2025, 11:21","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2994036435,5,,1 Ekor Ayam Original,
+"Oct 4 2025, 10:48","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2993984710,5,,1 Ekor Ayam Western,
+"Oct 4 2025, 10:29","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2993961053,5,,Paket Mabar 1 Mandhi,
+"Oct 4 2025, 10:25","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2993955739,5,,"Paket Berkah 1 Putih, 1/4 Ekor Ayam Western, Nasi Kebuli",
+"Oct 4 2025, 10:06","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2993933187,5,,Paket Mabar 1 Kebuli,
+"Oct 4 2025, 10:04","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2993929873,5,,Paket Mabar 1 Kebuli,
+"Oct 4 2025, 09:58","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2993923976,5,,1/2 Ekor Ayam Western,
+"Oct 4 2025, 09:05","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2993878789,5,,1 Ekor Ayam Western,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 4 2025, 08:32","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2993857085,5,,1 Ekor Ayam Western,
+"Oct 3 2025, 20:08","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2993622283,5,,Paket Mabar 1 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_PACKAGING"
+"Oct 3 2025, 19:55","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2993607566,5,,1 Ekor Ayam Original,
+"Oct 3 2025, 19:12","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-2993547283,5,,Paket Berkah 3 Mandhi,
+"Oct 3 2025, 18:31","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2993483547,5,,Paket Berkah 2 Kebuli,
+"Oct 3 2025, 18:27","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2993478314,5,,"1 Ekor Ayam Western, Nasi Kebuli",
+"Oct 3 2025, 17:48","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2993422030,4,,Paket Mabar 4 Kebuli,CANNED_RESPONSE_TASTE
+"Oct 3 2025, 17:36","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2993407661,5,,"Sambel Ijo, Nasi Putih, 1 Ekor Ayam Western",
+"Oct 3 2025, 17:32","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2993402658,5,,Paket Berkah 1 Putih,
+"Oct 3 2025, 17:11","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2993378357,5,,"Sambel Korek, 1 Ekor Ayam Western",
+"Oct 3 2025, 16:53","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2993359960,5,,Paket Berkah 2 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_PORTION, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_VALUE, CANNED_RESPONSE_CUTLERY"
+"Oct 3 2025, 16:25","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2993333215,5,,"1/2 Ekor Ayam Western, Paket Berkah 2 Kebuli",
+"Oct 3 2025, 16:20","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2993328495,4,,"Squash Lychee, 1/2 Ekor Ayam Western",
+"Oct 3 2025, 16:07","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2993316005,5,,1 Ekor Ayam Western,
+"Oct 3 2025, 15:51","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2993302116,5,,"Nasi Kebuli, 1/4 Ekor Ayam Original, 1/2 Ekor Ayam Original, Sambel Tomat",
+"Oct 3 2025, 15:17","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-2993272491,5,,"Air Mineral, Nasi Putih, Paket Berkah 1 Putih, Paket Berkah 2 Kebuli",
+"Oct 3 2025, 10:50","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2992965014,5,,"Onion Mayo Sauce, 1 Ekor Ayam Western",
+"Oct 3 2025, 10:23","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2992931847,5,,"Nasi Kebuli, Paket Mabar 2 Mandhi",
+"Oct 3 2025, 09:56","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2992904599,5,,1 Ekor Ayam Western,"CANNED_RESPONSE_PORTION, CANNED_RESPONSE_TASTE, CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING, CANNED_RESPONSE_CUTLERY, CANNED_RESPONSE_VALUE"
+"Oct 3 2025, 08:50","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2992859707,5,,"Sambel Korek, 1 Ekor Ayam Western, Nasi Putih",
+"Oct 2 2025, 18:39","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2992528598,5,,"1/2 Ekor Ayam Western, Nasi Kebuli, Hot Cheese Sauce",
+"Oct 2 2025, 18:35","Ayam Guling Enakko, Dalung",Gofood Delivery,F-2992522846,5,,1 Ekor Ayam Original,
+"Oct 2 2025, 17:17","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2992415612,5,,Paket Mabar 4 Kebuli,
+"Oct 2 2025, 17:10","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2992406908,5,,1 Ekor Ayam Western,
+"Oct 2 2025, 15:38","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-2992313796,5,,1/2 Ekor Ayam Western,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE"
+"Oct 2 2025, 14:57","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2992277325,5,,"Paket Berkah 1 Putih, Paket Mabar 1 Kebuli",
+"Oct 2 2025, 12:40","Ayam Guling Enakko, Dalung",Gofood Delivery,F-2992148098,5,,"Paket Berkah 1 Putih, Nasi Putih",
+"Oct 2 2025, 12:28","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2992134480,5,,"1 Ekor Ayam Western, Nasi Kebuli",
+"Oct 2 2025, 12:17","Ayam Guling Enakko, Mengwi",Gofood Delivery,F-2992119871,5,,Paket Mabar 1 Kebuli,"CANNED_RESPONSE_FRESHNESS, CANNED_RESPONSE_TASTE"
+"Oct 2 2025, 11:56","Ayam Guling Enakko, Dalung",Gofood Delivery,F-2992091937,5,,Paket Berkah 2 Kebuli,
+"Oct 2 2025, 10:53","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-2992003919,5,,"Paket Berkah 2 Kebuli, Reguler Burger",
+"Oct 2 2025, 10:39","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2991987825,5,,1/4 Ekor Ayam Western,CANNED_RESPONSE_TASTE
+"Oct 2 2025, 10:29","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2991976368,5,,Paket Berkah 3 Mandhi,
+"Oct 2 2025, 10:25","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2991971962,5,,"Paket Mabar 1 Kebuli, Paket Berkah 2 Kebuli, Paket Berkah 1 Putih",
+"Oct 2 2025, 09:57","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2991944939,5,,1 Ekor Ayam Original,
+"Oct 2 2025, 09:44","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2991934881,5,,"Paket Berkah 2 Kebuli, Paket Berkah 1 Putih",
+"Oct 2 2025, 09:01","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2991906780,5,,1 Ekor Ayam Western,
+"Oct 1 2025, 19:59","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2991683548,5,,"Sambel Ijo, 1/4 Ekor Ayam Western, 1/4 Ekor Ayam Original",CANNED_RESPONSE_TASTE
+"Oct 1 2025, 19:09","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2991616727,5,,1 Ekor Ayam Western,
+"Oct 1 2025, 18:36","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-2991566322,5,,"1 Ekor Ayam Western, Nasi Kebuli",
+"Oct 1 2025, 17:55","Ayam Guling Enakko, Denpasar",Gofood Delivery,F-2991506128,5,,"1/4 Ekor Ayam Western, Nasi Putih, 1/4 Ekor Ayam Original, Nasi Kebuli",
+"Oct 1 2025, 16:56","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2991435697,5,,1 Ekor Ayam Western,
+"Oct 1 2025, 14:41","Ayam Guling Enakko Dalung Permai, Jalan Perum Dalung Permai",Gofood Delivery,F-2991316568,5,,"Blackpaper Sauce, Cheese Sauce, Nasi Kebuli, 1 Ekor Ayam Western",
+"Oct 1 2025, 14:08","Ayam Guling Enakko, Tangkuban Perahu",Gofood Delivery,F-2991288593,4,,1/2 Ekor Ayam Western,
+"Oct 1 2025, 13:51","Ayam Guling Enakko, Pulau Kawe",Gofood Delivery,F-2991273465,5,,1 Ekor Ayam Western,
+"Oct 1 2025, 12:05","Ayam Guling Enakko, Dalung",Gofood Delivery,F-2991159442,5,,Paket Berkah 2 Kebuli,
+"Oct 1 2025, 11:34","Ayam Guling Enakko, Ahmad Yani",Gofood Delivery,F-2991117174,5,,Paket Berkah 2 Kebuli,
+"Oct 1 2025, 10:34","Ayam Guling Enakko, Dalung",Gofood Delivery,F-2991038915,5,,"Paket Mabar 1 Kebuli, 1/4 Ekor Ayam Western, 1/2 Ekor Ayam Western",
+"Oct 1 2025, 09:09","Ayam Guling Enakko, Pemogan",Gofood Delivery,F-2990972487,5,,"Hot Cheese Sauce, Air Mineral, Paket Berkah 2 Kebuli, Es Teh","CANNED_RESPONSE_TASTE, CANNED_RESPONSE_HYGIENE, CANNED_RESPONSE_PACKAGING"
